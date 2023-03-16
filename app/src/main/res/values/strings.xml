@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Age in Minutes</string>
+    <string name="calculate_your">Calculate Your</string>
+    <string name="age_text">AGE</string>
+    <string name="in_minutes">In Minutes</string>
+    <string name="buttonText">ENTER D.O.B.</string>
+    <string name = "selected_date">Selected Date</string>
+    <string name = "result">RESULT</string>
+    <string name = "result_units">Minutes till today!</string>
+</resources>
